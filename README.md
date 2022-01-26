@@ -4,4 +4,5 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 contact - jugalnerist@gmail.com
 
-https://komarev.com/ghpvc/?username=Jugalcody
+![](https://komarev.com/ghpvc/?username=Jugalcody)
+
