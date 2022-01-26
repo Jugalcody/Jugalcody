@@ -3,5 +3,5 @@
 - 💞️ I’m looking to collaborate on gui based projects and application development
 - 📫 contact - jugalnerist@gmail.com
 
-  ![](https://komarev.com/ghpvc/?username=Jugalcody)
+  
 
